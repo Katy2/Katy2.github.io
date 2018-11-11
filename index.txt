@@ -1,0 +1,36 @@
+﻿<HTML>
+<HEAD>
+<TITLE>KATARZYNA HANULA</TITLE>
+</HEAD>
+
+<BODY style="front-size:28px;">
+<CENTER><H1 style="font-size: 52px; text-align; center; color: white; background-color: black;"> GROMADY OTWARTE </H1><BR></CENTER>
+<CENTER><H1 style="font-size: 22px; text-align; center; color: white; background-color: black;"> autor: KATARZYNA HANULA </H1><BR></CENTER>
+<CENTER><p><H1 style="font-size: 37px; text-align; center; color: white; background-color: black; font-color: black;"> zapraszam w podróż kosmiczną </H1></p></CENTER>
+
+
+<STRONG><H1 style="font-size:17px; text-align; center; color: white; background-color: black;"> Gromady otwarte powstają z obłoków molekularnych, zlokalizowane są w ramionach spiralnych Drogi Mlecznej. W naszym nabliższym otoczeniu w Galaktyce mozemy zaobserwować ok. tysiąc takich gromad. Życie gromad trwa
+		 około kilkaset milionów lat. Klasyfikacja gromad otwartych: Gromadom otwartym nadaję się trzy kody w zależności od ich wyglądu. Pierwszy kod to rzymska cyfra od I-IV oznaczająca stopień koncentracji gromady. I- to układ najciaśniejszy. Następnie dodaje się cyfrę araabską od 1-3 wskazującą zakres jasności wśród gwiazd, 1-to zakres najwęższy. Dodana na końcu litera określa ,,bogactwo'' gromady czyli zagęszczenie: p- słabe, m- średnie, r- duże. Jeśli z gromadą związana jest mgławica dodaje się przyrostek: n. <BR>
+		 <p> <p/>
+
+<TABLE>
+	<TR>
+		<TD><p align="left"><a href="https://www.google.pl"><img src=gromadaotwarta1.jpg height="300" weight="350">
+		<TD><p align="middle"><center><H1 style="font-size:23px; text-align; middle; color: white; center;background-color: black;"> gromada otwarta 
+<p> <p/>
+		<TD><p align="right"><a href="https://www.google.pl"><img src=gromadaotwarta2.jpg height="300" weight="300">
+	</TR>
+
+	<TR>
+		<TD><p align="left"><a href="https://www.google.pl"><img src=chmuramolekularna.jpg height="280" weight="280">
+		<TD><p align="middle"><center><H1 style="font-size:23px; text-align; middle; color: white; center;background-color: black;"> obłok molekularny Cepheus B (po lewej) oraz w Orionie (po prawej) <p> <p/>
+		<TD><p align="right"><a href="https://www.google.pl"><img src=obłokmolekularny2.jpg height="277" weight="250">
+	</TR>
+	<TR>
+		<TD><p align="left"><a href="https://www.google.pl"><img src=spiralna2.jpg height="212" weight="212">
+		<TD><p align="midlle"><center><H1 style="font-size:23px; text-align; middle; color: white; center;background-color: black;"> galaktyka spiralna <p> <p/>
+		<TD><p align="right"><a href="https://www.google.pl"><img src=spiralna1.jpg height="280" weight="280">
+	</TR>
+
+</BODY>
+</HTML>
